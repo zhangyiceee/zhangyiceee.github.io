@@ -1,5 +1,3 @@
-## 欢迎来到张毅的个人主页
-
 ## 研究方向
 
 农村教育、非认知能力
@@ -7,6 +5,12 @@
 
 
 
+
+## 学习
+
+计量经济学资源
+
+学者主页
 
 ## 生活
 
@@ -17,6 +21,10 @@
 
 
 ## 学历
+
+陕西师范大学教育实验经济研究所，实验经济学专业硕士研究生
+
+
 
 You can use the [editor on GitHub](https://github.com/zhangyiceee/zhangyiceee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
