@@ -1,6 +1,22 @@
 ## 欢迎来到张毅的个人主页
 
-![证件](https://github.com/zhangyiceee/zhangyiceee.github.io/blob/master/picture/zhangyi.jpeg)
+## 研究方向
+
+农村教育、非认知能力
+
+
+
+
+
+## 生活
+
+
+
+
+
+
+
+## 学历
 
 You can use the [editor on GitHub](https://github.com/zhangyiceee/zhangyiceee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
