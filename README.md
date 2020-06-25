@@ -1,6 +1,6 @@
 ## 欢迎来到张毅的个人主页
 
-![证件](./picture/zhangyi.jepg)
+![证件](https://github.com/zhangyiceee/zhangyiceee.github.io/blob/master/picture/zhangyi.jpeg)
 
 ```
 "./imgs/xiaokeai.jpg"
