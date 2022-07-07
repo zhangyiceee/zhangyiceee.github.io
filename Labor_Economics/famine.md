@@ -1,8 +1,4 @@
-The Long Term Consequences of Famine on Survivors: Evidence from a Unique Natural Experiment using China's Great Famine
-
-摘要：*NBER Working Paper* 发表的工作论文采用分位数加工具变量回归，估计出饥荒对幸存者健康的净效应。
-
-链接：http://www.nber.org/papers/w14917
+## [The Long Term Consequences of Famine on Survivors: Evidence from a Unique Natural Experiment using China's Great Famine](http://www.nber.org/papers/w14917)
 
 1959-1961年间的饥荒造成了大约16-30万中国人死亡，幼儿及母胎期间经历过1959-1961年饥荒的人群现在正处于其中年时期，现有研究侧重于饥荒对死亡率的影响，但对幸存者的研究却比较缺乏(文章于2009年公布最初版本，最近几年研究长期影响的文章多了起来)。世界粮食组织2002年估计非洲约有3800万人口正面临饥荒的威胁，因此研究饥荒的对幸存者的长期影响具有现实意义。澳大利亚国立大学 Meng Xin 与耶鲁大学Nancy Qian 撰写的NBER 工作论文“The Long Term Consequences of Famine on Survivors: Evidence from a Unique Natural Experiment using China's Great Famine”克服了已有研究存在的识别难题后，估计出幼儿及母胎时期经历饥荒对于个体成年后健康和劳动力产出影响的净效应。
 
