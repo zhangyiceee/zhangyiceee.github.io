@@ -3,7 +3,7 @@
 
 
 ## 教育经济学
-1.[父母失业的影响](Education Economics/失业.md)
+1.[父母失业的影响](Education_Economics/失业.md)
 2.[]()
 
 
