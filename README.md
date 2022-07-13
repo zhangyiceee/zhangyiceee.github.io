@@ -1,68 +1,24 @@
-# MatJek
+# 经济学的盛宴
 
-A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.
+在写作方面一直写的不好，为了锻炼自己的写作能力，将以前相关论文的小推送放在自己的Github主页，坚持写作！坚持思考！
 
-## Features
+## 劳动经济学
+1. [父母失业的影响](Labor_Economics/失业.md)：*Journal of Development Economics*发表的论文利用巴勒斯坦被占地区样本研究父母工作失业对于孩子辍学的影响。  
+2. [大饥荒的长期影响](Labor_Economics/famine.md)：*NBER Working Paper* 发表的工作论文采用分位数加工具变量回归，估计出饥荒对幸存者健康的净效应。 
+3. [在线课程有用吗](Labor_Economics/在线课程.md):提供优质的在线教学资源有用吗？
+4. [教授性别的影响](Labor_Economics/教授性别.md):社会学家表示进入科学的性别差异解释了大学生性别薪酬差异的很大一部分。
+5. [越多越好吗？家庭规模与出生顺序对孩子影响](Labor_Economics/家庭规模.md):家庭规模越大，孩子的质量越差吗？
 
-* Google Analytics
-* Disqus
-* [GitHub project page](https://shawnteoh.github.io/matjek/projects/)
-* [Tags](https://shawnteoh.github.io/matjek/tags/) and [Categories](https://shawnteoh.github.io/matjek/categories/)
-* Modular CSS and JS includes ([example](https://github.com/ShawnTeoh/matjek/blob/gh-pages/projects.md/))
-* [Fancy "About" page](https://shawnteoh.github.io/matjek/about)
 
-## Installation
 
-Clone or fork this repo and edit `_config.yml` as needed.
+## 公共经济学
 
-## Configuration
 
-Most of the configurations can be found in `_config.yml`. The configurations listed below are specific to MatJek. If you are not using `google_tracking_id` or `disqus_shortname`, just remove them completely.
 
-```yaml
-github_profile: "github_profile_url"
-user: "your_name" # Appears at sidebar
-user_email: "your_email" # Appears at sidebar, remove whole variable if unwanted
-contact_url: "google_form_link"
-google_tracking_id: "google_analytics_ID"
-disqus_shortname: "shortname_given_by_Disqus"
-```
 
-Edit the images in `assets/res` to suit your liking, but try to stick to the original resolutions.
 
-If you would like to enable comments in a post (disqus_shortname must be provided), add this line to the front matter of the post.
 
-```yaml
-comments: 1
-```
 
-Add tags and categories to your posts in the front matter as well. Multiple tags/categories can be assigned but need to be separated by spaces.
+## 大师
 
-```yaml
-categories: default default2
-tags: test test2
-```
-
-## Contributing
-
-Bug reports and pull requests are welcomed on GitHub at https://github.com/shawnteoh/matjek. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, clone/fork the repo and run `bundle install`.
-
-To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000/matjek/`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## License
-
-The theme is available as open source under the terms of the [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
-## Libraries
-* [Materialize.css](http://materializecss.com/)
-* [GeoPattern](https://github.com/btmills/geopattern/)
-* [Animate.css](https://daneden.github.io/animate.css/)
-* [Morphtext](http://morphext.fyianlai.com/)
-
-## References
-* https://github.com/DONGChuan/Yummy-Jekyll/
-* https://github.com/codinfox/codinfox-lanyon/
+1. [Amy Finkelstein](Master/Amy_Finkelstein.md)
