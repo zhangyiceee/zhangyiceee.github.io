@@ -18,6 +18,12 @@ Kondo & Shigeoka发表在Journal of Public Economics上的文章研究了日本�
 
 
 
+## Long-Term Health Insurance: Theory Meets Evidence
+
+Juan Pablo Atal， Hanming Fang，Martin Karlsson，Nicolas R. Ziebarth
+
+
+
 
 
 

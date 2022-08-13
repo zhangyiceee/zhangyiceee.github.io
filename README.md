@@ -1,6 +1,6 @@
 # 经济学的盛宴
 
-在写作方面一直写的不好，为了锻炼自己的写作能力，将以前相关论文的小推送放在自己的Github主页，坚持写作！坚持思考！  
+坚持写作！坚持思考！  
 
 ## 劳动经济学
 
@@ -15,6 +15,7 @@
 ## 公共经济学
 
 1. [长期护理保险的梳理](Public_Economics/long_term_care.md)
+1. [养老服务发展报告](Public_Economics/elderly_care_system.md)
 
 
 
