@@ -16,6 +16,7 @@
 
 1. [长期护理保险的梳理](Public_Economics/long_term_care.md)
 1. [养老服务发展报告](Public_Economics/elderly_care_system.md)
+1. [机器人对服务业的影响](Public_Economics/robots_care.md)
 
 
 
